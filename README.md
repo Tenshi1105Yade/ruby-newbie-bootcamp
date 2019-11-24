@@ -14,7 +14,7 @@ Exercises for Ruby Newbie's Workshop.
 ## Installation
 
 ```
-git clone https://github.com/enokizako/ruby-newbie-bootcamp.git
+git clone https://github.com/Tenshi1105yaro/ruby-newbie-bootcamp.git
 cd ruby-newbie-bootcamp
 bundle install
 ```
